@@ -147,3 +147,10 @@ for (let index = 0; index < tomb.length ; index++) {
     }
 }
 console.log(atlagalatt);
+
+let autok = ["Mercedes", "BMW", "Audi", "Volvo", "Renault", "BMW"]; 
+autok.sort();
+console.log(autok);
+autok.reverse();
+console.log(autok);
+
